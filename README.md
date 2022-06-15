@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Giorgio Gristina</h1>
 <h3 align="center">Out-going Full-stack web developer greedy to learn and apply my knowledge</h3>
 
-- 🔭 I've been refreshing all the concept learned during Le Wagon Bootcamp and learning more to be a better developer!
 - 🌱 I’m currently learning React.
 - 💬 Ask me about tips to travel solo in South America and live in Australia and go for a ride with the bicycle. I love cooking so ask for any recipes.
 - 📫 How to reach me **giorgio.gristina91@gmail.com**
