@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Giorgio Gristina</h1>
 
-- 🌱 I’m currently doing an apprenticeship in Google.
+- 🌱 I have just finished an apprenticeship in Google.
 - 📫 How to reach me **giorgio.gristina91@gmail.com**
 
 
