@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋, I'm Giorgio Gristina</h1>
+<h1 align="center">Giorgio Gristina</h1>
 
-- 🌱 I have just finished an apprenticeship in Google.
-- 📫 How to reach me **giorgio.gristina91@gmail.com**
+<p align="center"> 🌟 Recent Google Apprentice | 🚀 Hungry for Growth | 💡 Passionate Problem-Solver </p>
+
+Hi there! 👋 I’ve just completed an incredible journey as an apprentice at Google, where I honed my skills and developed a deeper passion for innovation and technology. Now, I’m eager to take on new challenges, learn relentlessly, and make meaningful contributions to the tech world.
+
+Let’s build something amazing together! ✨
+
+📫 How to reach me **giorgio.gristina91@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
